@@ -8,7 +8,7 @@ export default function index() {
     const [loading, setLoading] = useState(false);
 
     const signUp = () =>{
-
+      
     }
 
     const signIn = () =>{
